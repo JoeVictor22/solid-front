@@ -1,3 +1,6 @@
+## Docs
+https://www.solidjs.com/tutorial/introduction_basics
+
 ## Usage
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
